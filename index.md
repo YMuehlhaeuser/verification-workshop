@@ -27,7 +27,7 @@ This workshop brought together engineers, policy researchers, and verification f
 
 Detailed notes, working documents, and session summaries are available in the full debrief document:
 
-[View Full Workshop Debrief](https://docs.google.com/YOUR_DOC_LINK_HERE)
+[View Full Workshop Debrief](https://docs.google.com/document/d/1IzIch8o3Wms8qFEFvkfcOqof13MlCkgwmSji7h8KJfs/edit?usp=sharing)
 
 ---
 
