@@ -2,27 +2,29 @@
 layout: default
 ---
 
-# Verification Workshop
+# AI Verification Workshop Debrief
 
-**Date:** March 2026
-**Organizer:** Your Name
+**February 2025 | Berkeley, CA**
+Hosted by the [Future of Life Institute](https://futureoflife.org)
 
-## About the Workshop
+For questions not answered by this document, contact [yannick@futureoflife.org](mailto:yannick@futureoflife.org)
 
-A brief description of what the workshop covered, who it was for, and what participants gained from it.
+---
 
-## Materials
+## Executive Summary
 
-The workshop materials, notes, and resources are available in the link below.
+This workshop brought together engineers, policy researchers, and verification field builders to build consensus on a roadmap towards a workable verification stack, identify concrete near-term R&D challenges and projects, and coordinate next steps for the field.
 
-[View Workshop Materials (Google Doc)](https://docs.google.com/YOUR_DOC_LINK_HERE)
+**Key takeaways:**
 
-## Topics Covered
+- **Consensus on a Minimum Viable Product architecture emerged.** A near-term MVP likely would involve verifying that a compute cluster is only doing inference on a specified model. The technical stack likely involves a unilaterally trusted network-tap and a unilaterally trusted verification cluster in an off-the-shelf SCIF.
+- **The field remains bottlenecked by a lack of concrete proposals with people to execute on them.** There was consensus that there is more potential funding available than concrete projects to fund.
+- **High level of momentum and transition from high-level theory to engineering.** The field may be undergoing the same transition that AI Safety underwent in its transition to empirical ML safety research. There was significant interest in building and testing sub-scale demonstrations of network taps and secure verification clusters using mostly off-the-shelf components.
 
-- Topic one
-- Topic two
-- Topic three
+---
 
-## Contact
+## Full Workshop Notes
 
-Questions? Reach out at [your@email.com](mailto:your@email.com).
+Detailed notes, working documents, and session summaries are available in the full debrief document:
+
+[View Full Workshop Debrief](https://docs.google.com/YOUR_DOC_LINK_HERE)
