@@ -17,7 +17,7 @@ This workshop brought together engineers, policy researchers, and verification f
 
 **Key takeaways:**
 
-- **Consensus on a Minimum Viable Product architecture emerged.** A near-term MVP likely would involve verifying that a compute cluster is only doing inference on a specified model. The technical stack likely involves a unilaterally trusted network-tap and a unilaterally trusted verification cluster in an off-the-shelf SCIF.
+- **Tentative Consensus on a Minimum Viable Product architecture emerged.** A near-term MVP likely would involve verifying that a compute cluster is only doing inference on a specified model. The technical stack would consist of a unilaterally trusted network-tap and a unilaterally trusted verification cluster in an off-the-shelf SCIF.
 - **The field remains bottlenecked by a lack of concrete proposals with people to execute on them.** There was consensus that there is more potential funding available than concrete projects to fund.
 - **High level of momentum and transition from high-level theory to engineering.** The field may be undergoing the same transition that AI Safety underwent in its transition to empirical ML safety research. There was significant interest in building and testing sub-scale demonstrations of network taps and secure verification clusters using mostly off-the-shelf components.
 
